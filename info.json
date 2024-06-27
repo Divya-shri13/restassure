@@ -1,0 +1,12 @@
+{
+    "name": "Divya",
+    "specification": "Artist",
+    "phone": "9012345678",
+    "coursesCol": [
+        "Violet",
+        "Black",
+        "Red"
+    ],
+    "id": "175",
+    "createdAt": "2023-11-03T05:49:47.906Z"
+}
